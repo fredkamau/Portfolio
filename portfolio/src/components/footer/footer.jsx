@@ -138,13 +138,7 @@ class Footer extends Component {
           <div className="row">
             <div className="col-md-12 text-center">
               <p>
-                {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
-                Copyright © All rights reserved | This template is made with{" "}
-                <i className="icon-heart color-danger" aria-hidden="true" /> by{" "}
-                <a href="https://colorlib.com" target="_blank">
-                  Colorlib
-                </a>
-                {/* Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. */}
+                Copyright © All rights reserved | Fredrick Kamau            
               </p>
             </div>
           </div>
